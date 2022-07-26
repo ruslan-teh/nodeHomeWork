@@ -1,0 +1,1 @@
+export * from './console_log_some_info';
